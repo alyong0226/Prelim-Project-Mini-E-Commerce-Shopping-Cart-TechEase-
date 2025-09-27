@@ -3,7 +3,7 @@ A simple e-commerce website (Gadgets) where patterns are implemented such as Cre
 
 Members (IT3B):
 Lopez, Al James S.
-Atibagos, Camille E.
+Atibagos, Camille B.
 Sagon, Jasper S.
 
 NOTE (How to use system):
